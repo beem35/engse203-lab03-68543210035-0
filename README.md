@@ -8,7 +8,7 @@
 - URL: https://beem35.github.io/engse203-lab03-68543210035-0/
 
 ## วัตถุประสงค์ของงาน
-เรียนรู้ Semantic HTML และ Accessibility, Responsive Layout, Event, Validation และ Feedback
+-เรียนรู้ Semantic HTML และ Accessibility, Responsive Layout, Event, Validation และ Feedback
 - เรียนรู้การใช้งาน DOM API สำหรับการจัดการโครงสร้างและอัปเดตหน้าเว็บ (DOM Manipulation)
 - เรียนรู้การดักจับและจัดการเหตุการณ์ (Event Handling) เช่น `input` สำหรับ Live Preview และ `submit` สำหรับการส่งฟอร์ม
 
