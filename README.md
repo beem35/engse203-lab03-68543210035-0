@@ -5,6 +5,7 @@
 - ชื่อ-นามสกุล: ปัณณวัฒน์ สิทธิตัน
 - รหัสนักศึกษา: 68543210035-0
 - ระบบปฏิบัติการที่ใช้: macOS / linuxMint
+- URL: https://beem35.github.io/engse203-lab03-68543210035-0/
 
 ## วัตถุประสงค์ของงาน
 เรียนรู้ Semantic HTML และ Accessibility, Responsive Layout, Event, Validation และ Feedback
